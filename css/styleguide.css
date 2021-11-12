@@ -1,0 +1,84 @@
+:root { 
+  --alto: #dbdedb;
+  --black: #000000;
+  --hunter-green: #161616;
+  --mercury: #e6e6e6;
+  --white: #ffffff;
+ 
+  --font-size-l: 20px;
+  --font-size-m: 18px;
+  --font-size-s: 17px;
+  --font-size-xl: 24px;
+  --font-size-xs: 15px;
+  --font-size-xxs: 13px;
+  --font-size-xxxs: 12px;
+ 
+  --font-family-press_start_2p: "Press Start 2P", Helvetica;
+}
+.pressstart2p-normal-black-15px {
+  color: var(--black);
+  font-family: var(--font-family-press_start_2p);
+  font-size: var(--font-size-xs);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.pressstart2p-normal-white-24px {
+  color: var(--white);
+  font-family: var(--font-family-press_start_2p);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.pressstart2p-normal-black-20px {
+  color: var(--black);
+  font-family: var(--font-family-press_start_2p);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.pressstart2p-normal-white-15px {
+  color: var(--white);
+  font-family: var(--font-family-press_start_2p);
+  font-size: var(--font-size-xs);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.pressstart2p-normal-white-18px {
+  color: var(--white);
+  font-family: var(--font-family-press_start_2p);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.pressstart2p-normal-black-13px {
+  color: var(--black);
+  font-family: var(--font-family-press_start_2p);
+  font-size: var(--font-size-xxs);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.pressstart2p-normal-black-18px {
+  color: var(--black);
+  font-family: var(--font-family-press_start_2p);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.pressstart2p-normal-white-20px {
+  color: var(--white);
+  font-family: var(--font-family-press_start_2p);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.border-3px-mercury {
+  border: 3px solid var(--mercury);
+}

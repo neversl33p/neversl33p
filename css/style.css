@@ -1,0 +1,1348 @@
+/* screen - desktop-1 */
+
+.desktop-1 {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  height: 4133px;
+  overflow: hidden;
+  width: 1440px;
+}
+
+.desktop-1 .overlap-group9 {
+  height: 4120px;
+  position: relative;
+  width: 1458px;
+  z-index: 1;
+}
+
+.desktop-1 .bacground {
+  height: 4120px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1440px;
+}
+
+.desktop-1 .overlap-group-2 {
+  height: 507px;
+  left: 0;
+  position: absolute;
+  top: 587px;
+  width: 1440px;
+}
+
+.desktop-1 .rectangle-5 {
+  background-color: var(--alto);
+  box-shadow: 0px 4px 4px #00000040;
+  height: 500px;
+  left: 0;
+  position: absolute;
+  top: 7px;
+  width: 1440px;
+}
+
+.desktop-1 .airdrops {
+  color: var(--black);
+  font-family: var(--font-family-press_start_2p);
+  font-size: var(--font-size-xl);
+  font-weight: 400;
+  left: 720px;
+  letter-spacing: 0;
+  line-height: 33.4px;
+  position: absolute;
+  text-align: center;
+  top: 97px;
+  white-space: nowrap;
+}
+
+.desktop-1 .text-1-1 {
+  left: 720px;
+  letter-spacing: 0;
+  line-height: 25.0px;
+  position: absolute;
+  top: 175px;
+  width: 523px;
+}
+
+.desktop-1 .airdrop-1 {
+  display: block;
+  height: 402px;
+  left: 14px;
+  object-fit: cover;
+  opacity: 0;
+  position: absolute;
+  top: 0;
+  transform: translate(0, 25px);
+  width: 652px;
+}
+
+.desktop-1 .airdrop-1.bp1-animate-enter {
+  animation: bp1-animate-enter-frames 0.20s ease-in-out 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+  transform: translate(0, 25px);
+}
+
+@keyframes bp1-animate-enter-frames {
+  from{opacity: 0;
+transform: translate(0, 25px);
+}
+to{opacity: 1;
+transform: translate(0,0);
+}
+}
+
+.desktop-1 .dao {
+  height: 520px;
+  left: 0;
+  opacity: 0;
+  position: absolute;
+  top: 1119px;
+  transform: translate(-25px, 0);
+  width: 1440px;
+}
+
+.desktop-1 .dao.bp1-animate-enter1 {
+  animation: bp1-animate-enter1-frames 0.20s ease-in 0.10s 1 normal forwards;
+  opacity: 0;
+  transform: translate(-25px, 0);
+}
+
+@keyframes bp1-animate-enter1-frames {
+  from{opacity: 0;
+transform: translate(-25px, 0);
+}
+to{opacity: 1;
+transform: translate(0,0);
+}
+}
+
+.desktop-1 .overlap-group1 {
+  height: 520px;
+  position: relative;
+}
+
+.desktop-1 .rectangle-8 {
+  background-color: var(--hunter-green);
+  box-shadow: 0px 4px 4px #00000040;
+  height: 500px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1440px;
+}
+
+.desktop-1 .dao-1 {
+  display: flex;
+  flex-direction: column;
+  height: 446px;
+  left: 238px;
+  position: absolute;
+  top: 74px;
+  width: 420px;
+}
+
+.desktop-1 .croco-dao {
+  height: 67px;
+  letter-spacing: 0;
+  line-height: 33.4px;
+  text-align: center;
+  width: 266px;
+}
+
+.desktop-1 .text-2 {
+  height: 334.24px;
+  letter-spacing: 0;
+  line-height: 25.0px;
+  margin-left: 27.1px;
+  margin-top: 45px;
+  width: 388.91px;
+}
+
+.desktop-1 .dao1-1 {
+  height: 354px;
+  left: 854px;
+  object-fit: cover;
+  position: absolute;
+  top: 64px;
+  width: 352px;
+}
+
+.desktop-1 .overlap-group2 {
+  align-items: flex-start;
+  background-color: var(--hunter-green);
+  box-shadow: 0px 4px 4px #00000040;
+  display: flex;
+  flex-direction: column;
+  left: 0;
+  min-height: 908px;
+  padding: 27px 142px;
+  position: absolute;
+  top: 2169px;
+  width: 1440px;
+}
+
+.desktop-1 .title {
+  align-self: center;
+  color: var(--white);
+  font-family: var(--font-family-press_start_2p);
+  font-size: 36px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 50.0px;
+  min-height: 39px;
+  text-align: center;
+  white-space: nowrap;
+  width: 274px;
+}.desktop-1 .title1 {
+  align-self: center;
+  color: var(--black);
+  font-family: var(--font-family-press_start_2p);
+  font-size: 36px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 50.0px;
+  min-height: 39px;
+  text-align: center;
+  white-space: nowrap;
+  width: 274px;
+}.desktop-1 .title {
+  align-self: center;
+  color: var(--white);
+  font-family: var(--font-family-press_start_2p);
+  font-size: 36px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 50.0px;
+  min-height: 39px;
+  text-align: center;
+  white-space: nowrap;
+  width: 274px;
+}
+
+.desktop-1 .text-3 {
+  letter-spacing: 0;
+  line-height: 33.4px;
+  margin-left: 22px;
+  margin-top: 26px;
+  min-height: 82px;
+}
+
+.desktop-1 .span1 {
+  line-height: 25.0px;
+}
+
+.desktop-1 .text {
+  letter-spacing: 0;
+  line-height: 33.4px;
+  margin-left: 22px;
+  margin-top: 20px;
+  min-height: 57px;
+}
+
+.desktop-1 .name {
+  letter-spacing: 0;
+  line-height: 33.4px;
+  margin-left: 22px;
+  margin-top: 45px;
+  min-height: 82px;
+}
+
+.desktop-1 .text-1 {
+  letter-spacing: 0;
+  line-height: 33.4px;
+  margin-left: 22px;
+  margin-top: 45px;
+  min-height: 57px;
+}
+
+.desktop-1 .text-9 {
+  align-self: flex-end;
+  letter-spacing: 0;
+  line-height: 33.4px;
+  margin-top: 45px;
+  min-height: 57px;
+  min-width: 1134px;
+}
+
+.desktop-1 .overlap-group3 {
+  align-items: center;
+  background-color: var(--alto);
+  box-shadow: 0px 4px 4px #00000040;
+  display: flex;
+  flex-direction: column;
+  left: 0;
+  min-height: 500px;
+  padding: 74px 0;
+  position: absolute;
+  top: 1644px;
+  width: 1440px;
+}
+
+.desktop-1 .burn-token-game {
+  color: var(--black);
+  font-family: var(--font-family-press_start_2p);
+  font-size: var(--font-size-xl);
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 33.4px;
+  min-height: 59px;
+  text-align: center;
+  width: 376px;
+}
+
+.desktop-1 .text-10 {
+  letter-spacing: 0;
+  line-height: 25.0px;
+  margin-top: 20px;
+  min-height: 273px;
+  width: 1140px;
+}
+
+.desktop-1 .overlap-group4 {
+  align-items: flex-end;
+  background-color: var(--alto);
+  box-shadow: 0px 4px 4px #00000040;
+  display: flex;
+  flex-direction: column;
+  left: 0;
+  min-height: 858px;
+  padding: 32px 153px;
+  position: absolute;
+  top: 3102px;
+  width: 1440px;
+}
+
+.desktop-1 .faq {
+  align-self: center;
+  color: var(--black);
+  font-family: var(--font-family-press_start_2p);
+  font-size: 28px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 38.9px;
+  margin-right: 35.0px;
+  min-height: 67px;
+  text-align: center;
+  width: 261px;
+}
+
+.desktop-1 .flex-row {
+  align-items: flex-start;
+  display: flex;
+  height: 122px;
+  margin-top: 7px;
+  min-width: 1133px;
+}
+
+.desktop-1 .text-11 {
+  letter-spacing: 0;
+  line-height: 27.8px;
+  min-height: 122px;
+  width: 522px;
+}
+
+.desktop-1 .span-1 {
+  line-height: 20.8px;
+}
+
+.desktop-1 .text-15 {
+  letter-spacing: 0;
+  line-height: 27.8px;
+  margin-left: 89px;
+  min-height: 122px;
+  width: 522px;
+}
+
+.desktop-1 .flex-row-1 {
+  align-items: flex-start;
+  display: flex;
+  height: 104px;
+  margin-top: 99px;
+  min-width: 1133px;
+}
+
+.desktop-1 .wen-mint-tba {
+  letter-spacing: 0;
+  line-height: 27.8px;
+  min-height: 79px;
+  width: 204px;
+}
+
+.desktop-1 .text-14 {
+  letter-spacing: 0;
+  line-height: 27.8px;
+  margin-left: 407px;
+  min-height: 104px;
+  width: 522px;
+}
+
+.desktop-1 .flex-row-2 {
+  align-items: flex-start;
+  align-self: flex-start;
+  display: flex;
+  height: 175px;
+  margin-left: 1px;
+  margin-top: 74px;
+  min-width: 1073px;
+}
+
+.desktop-1 .text-12 {
+  letter-spacing: 0;
+  line-height: 27.8px;
+  min-height: 175px;
+  width: 462px;
+}
+
+.desktop-1 .text-13 {
+  letter-spacing: 0;
+  line-height: 27.8px;
+  margin-left: 149px;
+  min-height: 175px;
+  width: 462px;
+}
+
+.desktop-1 .text-16 {
+  align-self: center;
+  letter-spacing: 0;
+  line-height: 25.0px;
+  margin-right: 1.0px;
+  margin-top: 61px;
+  min-height: 76px;
+  width: 645px;
+}
+
+.desktop-1 .welcome {
+  height: 500px;
+  left: 0;
+  opacity: 0;
+  position: absolute;
+  top: 69px;
+  transform: translate(-25px, 0);
+  width: 1444px;
+}
+
+.desktop-1 .welcome.bp1-animate-enter2 {
+  animation: bp1-animate-enter2-frames 0.20s ease-in-out 0.05s 1 normal forwards;
+  opacity: 0;
+  transform: translate(-25px, 0);
+}
+
+@keyframes bp1-animate-enter2-frames {
+  from{opacity: 0;
+transform: translate(-25px, 0);
+}
+to{opacity: 1;
+transform: translate(0,0);
+}
+}
+
+.desktop-1 .overlap-group5 {
+  align-items: center;
+  background-color: var(--hunter-green);
+  box-shadow: 0px 4px 4px #00000040;
+  display: flex;
+  height: 500px;
+  min-width: 1440px;
+  padding: 45px 101px;
+}
+
+.desktop-1 .flex-col {
+  align-items: flex-start;
+  align-self: flex-end;
+  display: flex;
+  flex-direction: column;
+  min-height: 365px;
+  width: 688px;
+}
+
+.desktop-1 .text-18 {
+  letter-spacing: 0;
+  line-height: 33.4px;
+  min-height: 31px;
+  text-align: center;
+  white-space: nowrap;
+  width: 603px;
+}
+
+.desktop-1 .text-17 {
+  align-self: flex-end;
+  color: #d7d7d7;
+  font-family: var(--font-family-press_start_2p);
+  font-size: var(--font-size-m);
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 25.0px;
+  margin-top: 45px;
+  min-height: 149px;
+  width: 639px;
+}
+
+.desktop-1 .flex-row-3 {
+  align-items: flex-start;
+  align-self: center;
+  display: flex;
+  margin-right: 58.0px;
+  margin-top: 90px;
+  min-width: 532px;
+}
+
+.desktop-1 .discord-button {
+  align-items: flex-start;
+  cursor: pointer;
+  display: flex;
+  min-width: 222px;
+  transition: all 0.1s ease-out;
+}
+
+.desktop-1 .discord-button:hover {
+  transform: scale(1.05);
+}
+
+.desktop-1 .overlap-group {
+  border-radius: 1.5px;
+  height: 50px;
+  position: relative;
+  width: 220px;
+}
+
+.desktop-1 .rectangle-6 {
+  background-color: #8a4295;
+  border-radius: 1.5px;
+  cursor: pointer;
+  height: 50px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  transition: all 0.2s ease-in;
+  width: 220px;
+}
+
+.desktop-1 .rectangle-6:hover {
+  transform: scale(1.1);
+}
+
+.desktop-1 .discord-logo-but {
+  height: 34px;
+  left: 8px;
+  object-fit: cover;
+  position: absolute;
+  top: 8px;
+  width: 49px;
+}
+
+.desktop-1 .discord {
+  left: 86px;
+  letter-spacing: 0;
+  line-height: 20.8px;
+  position: absolute;
+  top: 14px;
+  white-space: nowrap;
+  width: 132px;
+}
+
+.desktop-1 .twitter-button {
+  align-items: flex-start;
+  cursor: pointer;
+  display: flex;
+  margin-left: 88px;
+  min-width: 222px;
+  transition: all 0.1s ease-out;
+}
+
+.desktop-1 .twitter-button:hover {
+  transform: scale(1.05);
+}
+
+.desktop-1 .rectangle-7 {
+  background-color: #49cbe8;
+  border-radius: 1.5px;
+  cursor: pointer;
+  height: 50px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  transition: all 0.2s ease;
+  width: 220px;
+}
+
+.desktop-1 .rectangle-7:hover {
+  transform: scale(1.1);
+}
+
+.desktop-1 .twitter-logo-but {
+  height: 35px;
+  left: 9px;
+  object-fit: cover;
+  position: absolute;
+  top: 8px;
+  width: 43px;
+}
+
+.desktop-1 .twitter {
+  left: 76px;
+  letter-spacing: 0;
+  line-height: 20.8px;
+  position: absolute;
+  top: 14px;
+  white-space: nowrap;
+  width: 132px;
+}
+
+.desktop-1 .x1 {
+  height: 352px;
+  margin-bottom: 20.0px;
+  margin-left: 147px;
+  object-fit: cover;
+  width: 352px;
+}
+
+.desktop-1 .copyright {
+  left: 511px;
+  letter-spacing: 0;
+  line-height: 20.8px;
+  position: absolute;
+  top: 4077px;
+  width: 418px;
+}
+
+.desktop-1 .discord-button-1 {
+  align-items: flex-start;
+  cursor: pointer;
+  display: flex;
+  height: 48px;
+  left: 491px;
+  min-width: 152px;
+  position: absolute;
+  top: 3987px;
+  transition: all 0.2s ease-out;
+}
+
+.desktop-1 .discord-button-1:hover {
+  transform: scale(0.9);
+}
+
+.desktop-1 .overlap-group-1 {
+  height: 51px;
+  margin-left: -2px;
+  margin-top: -1.5px;
+  position: relative;
+  width: 153px;
+}
+
+.desktop-1 .discord-1 {
+  left: 22px;
+  letter-spacing: 0;
+  line-height: 20.8px;
+  position: absolute;
+  top: 14px;
+  white-space: nowrap;
+  width: 108px;
+}
+
+.desktop-1 .rectangle-15 {
+  background-color: #ffffff03;
+  cursor: pointer;
+  height: 51px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 153px;
+}
+
+.desktop-1 .twitter-button-1 {
+  align-items: flex-start;
+  cursor: pointer;
+  display: flex;
+  height: 48px;
+  left: 801px;
+  min-width: 152px;
+  position: absolute;
+  top: 3987px;
+  transition: all 0.2s ease-out;
+}
+
+.desktop-1 .twitter-button-1:hover {
+  transform: scale(0.9);
+}
+
+.desktop-1 .rectangle-14 {
+  background-color: #fbfbfb03;
+  cursor: pointer;
+  height: 51px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 153px;
+}
+
+.desktop-1 .twitter-1 {
+  left: 22px;
+  letter-spacing: 0;
+  line-height: 20.8px;
+  position: absolute;
+  top: 14px;
+  white-space: nowrap;
+  width: 107px;
+}
+
+.desktop-1 .header {
+  align-items: flex-right;
+  display: flex;
+  height: 80px;
+  left: 50;
+  min-width: 1446px;
+  position: fixed;
+  top: 0;
+  z-index: 2;
+}
+
+.desktop-1 .overlap-group8 {
+  align-items: center;
+  background-color: var(--hunter-green);
+  box-shadow: 0px 4px 4px #0000000a;
+  display: flex;
+  height: 80px;
+  min-width: 1440px;
+  padding: 0 84px;
+  
+}
+
+.desktop-1 .text-19 {
+  cursor: pointer;
+  letter-spacing: 0;
+  margin-bottom: 11.0px;
+  min-height: 29px;
+  text-align: center;
+  text-shadow: 0px 4px 4px #00000066;
+  transition: all 0.05s ease-in;
+  width: 442px;
+}
+
+.desktop-1 .text-19:hover {
+  transform: scale(0.9);
+}
+
+.desktop-1 .roadmap {
+  cursor: pointer;
+  letter-spacing: 0;
+  margin-bottom: 11.0px;
+  margin-left: 110px;
+  min-height: 29px;
+  text-align: center;
+  text-shadow: 0px 4px 4px #00000066;
+  transition: all 0.05s ease-out;
+  width: 156px;
+}
+
+.desktop-1 .roadmap:hover {
+  transform: scale(0.9); 
+}
+
+.desktop-1 .faq-1 {
+  cursor: pointer;
+  letter-spacing: 0;
+  margin-bottom: 11.0px;
+  margin-left: 110px;
+  min-height: 29px;
+  text-align: center;
+  text-shadow: 0px 4px 4px #00000066;
+  transition: all 0.05s ease-out;
+  width: 156px;
+}
+
+.desktop-1 .faq-1:hover {
+  transform: scale(0.9);
+}
+
+.desktop-1 .discord-2 {
+  cursor: pointer;
+  height: 40px;
+  margin-left: 111px;
+  object-fit: cover;
+  transition: all 0.05s ease-out;
+  width: 54px;
+}
+
+.desktop-1 .discord-2:hover {
+  transform: scale(0.9);
+}
+
+.desktop-1 .twitter-2 {
+  cursor: pointer;
+  height: 40px;
+  margin-left: 70px;
+  object-fit: cover;
+  transition: all 0.05s ease-out;
+  width: 47px;
+}
+
+.desktop-1 .twitter-2:hover {
+  transform: scale(0.9);
+}
+/* screen - desktop-2 */
+
+.desktop-2 {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  overflow: hidden;
+  width: 400px;
+}
+
+.desktop-2 .overlap-group9-1 {
+  height: 3858px;
+  position: relative;
+  width: 418px;
+}
+
+.desktop-2 .bacground-1 {
+  height: 3858px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 400px;
+}
+
+.desktop-2 .overlap-group-5 {
+  height: 535px;
+  left: 0;
+  position: absolute;
+  top: 636px;
+  width: 400px;
+}
+
+.desktop-2 .rectangle-5-1 {
+  background-color: var(--alto);
+  box-shadow: 0px 4px 4px #00000040;
+  height: 500px;
+  left: 0;
+  position: absolute;
+  top: 24px;
+  width: 400px;
+}
+
+.desktop-2 .airdrops-1 {
+  left: 98px;
+  letter-spacing: 0;
+  line-height: 25.0px;
+  position: absolute;
+  text-align: center;
+  top: 203px;
+  white-space: nowrap;
+  width: 205px;
+}
+
+.desktop-2 .text-20 {
+  left: 33px;
+  letter-spacing: 0;
+  line-height: 18.1px;
+  position: absolute;
+  top: 247px;
+  width: 295px;
+}
+
+.desktop-2 .airdrop-1-1 {
+  height: 192px;
+  left: 42px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 312px;
+}
+
+.desktop-2 .overlap-group1-1 {
+  height: 624px;
+  left: 0;
+  position: absolute;
+  top: 1171px;
+  width: 400px;
+}
+
+.desktop-2 .rectangle-8-1 {
+  background-color: var(--hunter-green);
+  box-shadow: 0px 4px 4px #00000040;
+  height: 465px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 400px;
+}
+
+.desktop-2 .overlap-group-6 {
+  height: 376px;
+  left: 30px;
+  position: absolute;
+  top: 248px;
+  width: 323px;
+}
+
+.desktop-2 .croco-dao-1 {
+  left: 37px;
+  letter-spacing: 0;
+  line-height: 25.0px;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  width: 266px;
+}
+
+.desktop-2 .text-21 {
+  color: var(--white);
+  font-family: var(--font-family-press_start_2p);
+  font-size: var(--font-size-xxs);
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 18.1px;
+  position: absolute;
+  top: 42px;
+  width: 323px;
+}
+
+.desktop-2 .dao1-1-1 {
+  height: 204px;
+  left: 98px;
+  object-fit: cover;
+  position: absolute;
+  top: 22px;
+  width: 204px;
+}
+
+.desktop-2 .overlap-group2-1 {
+  align-items: flex-start;
+  background-color: var(--hunter-green);
+  box-shadow: 0px 4px 4px #00000040;
+  display: flex;
+  flex-direction: column;
+  left: 0;
+  min-height: 680px;
+  padding: 26px 32px;
+  position: absolute;
+  top: 2152px;
+  width: 400px;
+}
+
+.desktop-2 .roadmap-1 {
+  align-self: center;
+  color: var(--white);
+  font-family: var(--font-family-press_start_2p);
+  font-size: 22px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 30.6px;
+  margin-left: 1.0px;
+  min-height: 39px;
+  text-align: center;
+  width: 157px;
+}
+
+.desktop-2 .minting {
+  letter-spacing: 0;
+  line-height: 15px;
+  margin-bottom: -15px;
+  margin-top: 48px;
+  min-height: 0;
+}
+
+.desktop-2 .overlap-group2-item {
+  letter-spacing: 0;
+  line-height: 15px;
+  margin-bottom: -15px;
+  margin-top: 65px;
+  min-height: 0;
+}
+
+.desktop-2 .overlap-group3-1 {
+  align-items: flex-start;
+  background-color: var(--alto);
+  box-shadow: 0px 4px 4px #00000040;
+  display: flex;
+  flex-direction: column;
+  left: 0;
+  min-height: 500px;
+  padding: 22px 32px;
+  position: absolute;
+  top: 1643px;
+  width: 400px;
+}
+
+.desktop-2 .burn-token-game-1 {
+  align-self: center;
+  letter-spacing: 0;
+  line-height: 25.0px;
+  margin-left: 1.0px;
+  min-height: 59px;
+  text-align: center;
+  width: 281px;
+}
+
+.desktop-2 .text-22 {
+  letter-spacing: 0;
+  line-height: 18.1px;
+  margin-top: 9px;
+  min-height: 273px;
+  width: 323px;
+}
+
+.desktop-2 .overlap-group4-1 {
+  align-items: center;
+  background-color: var(--alto);
+  box-shadow: 0px 4px 4px #00000040;
+  display: flex;
+  flex-direction: column;
+  left: 0;
+  min-height: 858px;
+  padding: 11px 27px;
+  position: absolute;
+  top: 2842px;
+  width: 401px;
+}
+
+.desktop-2 .faq-2 {
+  color: var(--black);
+  font-family: var(--font-family-press_start_2p);
+  font-size: 28px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 38.9px;
+  min-height: 41px;
+  text-align: center;
+  white-space: nowrap;
+  width: 91px;
+}
+
+.desktop-2 .overlap-group-7 {
+  align-self: flex-end;
+  height: 197px;
+  margin-top: 27px;
+  position: relative;
+  width: 342px;
+}
+
+.desktop-2 .text-23 {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 20.8px;
+  position: absolute;
+  top: 0;
+  width: 342px;
+}
+
+.desktop-2 .span6 {
+  color: var(--black);
+  font-family: var(--font-family-press_start_2p);
+  font-size: var(--font-size-xxxs);
+  font-weight: 400;
+  line-height: 16.7px;
+}
+
+.desktop-2 .wen-mint-tba-1 {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 20.8px;
+  position: absolute;
+  top: 118px;
+  width: 204px;
+}
+
+.desktop-2 .span1-1 {
+  line-height: 18.1px;
+}
+
+.desktop-2 .text-27 {
+  letter-spacing: 0;
+  line-height: 20.8px;
+  margin-right: 8.0px;
+  margin-top: 14px;
+  min-height: 141px;
+  width: 329px;
+}
+
+.desktop-2 .text-24 {
+  align-self: flex-start;
+  letter-spacing: 0;
+  line-height: 20.8px;
+  margin-left: 2px;
+  margin-top: 13px;
+  min-height: 103px;
+  width: 332px;
+}
+
+.desktop-2 .text-26 {
+  letter-spacing: 0;
+  line-height: 20.8px;
+  margin-right: 8.0px;
+  margin-top: 14px;
+  min-height: 104px;
+  width: 329px;
+}
+
+.desktop-2 .text-25 {
+  align-self: flex-start;
+  letter-spacing: 0;
+  line-height: 20.8px;
+  margin-left: 2px;
+  margin-top: 14px;
+  min-height: 84px;
+  width: 276px;
+}
+
+.desktop-2 .overlap-group5-1 {
+  align-items: center;
+  background-color: var(--hunter-green);
+  box-shadow: 0px 4px 4px #00000040;
+  display: flex;
+  flex-direction: column;
+  left: 0;
+  min-height: 605px;
+  padding: 24px 29.1px;
+  position: absolute;
+  top: 44px;
+  width: 400px;
+}
+
+.desktop-2 .text-29 {
+  color: var(--white);
+  font-family: var(--font-family-press_start_2p);
+  font-size: var(--font-size-s);
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 23.6px;
+  margin-right: 1.91px;
+  min-height: 31px;
+  text-align: center;
+  width: 306px;
+}
+
+.desktop-2 .text-28 {
+  align-self: flex-start;
+  color: #d7d7d7;
+  font-family: var(--font-family-press_start_2p);
+  font-size: var(--font-size-xxs);
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 18.1px;
+  margin-top: 47px;
+  min-height: 149px;
+  width: 340px;
+}
+
+.desktop-2 .x1-1 {
+  height: 198px;
+  margin-right: 3.87px;
+  margin-top: 34px;
+  object-fit: cover;
+  width: 176px;
+}
+
+.desktop-2 .flex-row-4 {
+  align-items: flex-start;
+  display: flex;
+  margin-right: 27.0px;
+  margin-top: 35px;
+  min-width: 281px;
+}
+
+.desktop-2 .discord-button-2 {
+  align-items: flex-start;
+  cursor: pointer;
+  display: flex;
+  min-width: 118px;
+  transition: all 0.2s ease-out;
+}
+
+.desktop-2 .discord-button-2:hover {
+  transform: scale(1.05);
+}
+
+.desktop-2 .overlap-group-3 {
+  border-radius: 1.5px;
+  height: 50px;
+  position: relative;
+  width: 118px;
+}
+
+.desktop-2 .rectangle-6-1 {
+  background-color: #8a4295;
+  border-radius: 1.5px;
+  cursor: pointer;
+  height: 50px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  transition: all 0.2s ease-in;
+  width: 118px;
+}
+
+.desktop-2 .rectangle-6-1:hover {
+  transform: scale(1.1);
+}
+
+.desktop-2 .discord-logo-but-1 {
+  height: 37px;
+  left: 34px;
+  object-fit: cover;
+  position: absolute;
+  top: 6px;
+  width: 50px;
+}
+
+.desktop-2 .twitter-button-2 {
+  align-items: flex-start;
+  cursor: pointer;
+  display: flex;
+  margin-left: 45px;
+  min-width: 118px;
+  transition: all 0.2s ease-out;
+}
+
+.desktop-2 .twitter-button-2:hover {
+  transform: scale(1.05);
+}
+
+.desktop-2 .rectangle-7-1 {
+  background-color: #49cbe8;
+  border-radius: 1.5px;
+  cursor: pointer;
+  height: 50px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  transition: all 0.2s ease;
+  width: 118px;
+}
+
+.desktop-2 .rectangle-7-1:hover {
+  transform: scale(1.1);
+}
+
+.desktop-2 .twitter-logo-but-1 {
+  height: 38px;
+  left: 35px;
+  object-fit: cover;
+  position: absolute;
+  top: 6px;
+  width: 47px;
+}
+
+.desktop-2 .copyright-1 {
+  color: var(--white);
+  font-family: var(--font-family-press_start_2p);
+  font-size: 10px;
+  font-weight: 400;
+  left: 62px;
+  letter-spacing: 0;
+  line-height: 13.9px;
+  position: absolute;
+  top: 3819px;
+  width: 275px;
+}
+
+.desktop-2 .discord-button-3 {
+  align-items: flex-start;
+  cursor: pointer;
+  display: flex;
+  height: 48px;
+  left: 61px;
+  min-width: 122px;
+  position: absolute;
+  top: 3725px;
+  transition: all 0.2s ease-out;
+}
+
+.desktop-2 .discord-button-3:hover {
+  transform: scale(1.05);
+}
+
+.desktop-2 .overlap-group-4 {
+  height: 51px;
+  margin-left: -2px;
+  margin-top: -1.5px;
+  position: relative;
+  width: 123px;
+}
+
+.desktop-2 .discord-3 {
+  color: var(--white);
+  font-family: var(--font-family-press_start_2p);
+  font-size: var(--font-size-xxxs);
+  font-weight: 400;
+  left: 18px;
+  letter-spacing: 0;
+  line-height: 16.7px;
+  position: absolute;
+  top: 14px;
+  width: 86px;
+}
+
+.desktop-2 .rectangle-1 {
+  background-color: #c4c4c403;
+  cursor: pointer;
+  height: 51px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 123px;
+}
+
+.desktop-2 .twitter-button-3 {
+  align-items: flex-start;
+  cursor: pointer;
+  display: flex;
+  height: 48px;
+  left: 219px;
+  min-width: 122px;
+  position: absolute;
+  top: 3725px;
+  transition: all 0.2s ease-out;
+}
+
+.desktop-2 .twitter-button-3:hover {
+  transform: scale(0.9);
+}
+
+.desktop-2 .twitter-3 {
+  color: var(--white);
+  font-family: var(--font-family-press_start_2p);
+  font-size: var(--font-size-xxxs);
+  font-weight: 400;
+  left: 17px;
+  letter-spacing: 0;
+  line-height: 16.7px;
+  position: absolute;
+  top: 14px;
+  width: 86px;
+}
+
+.desktop-2 .overlap-group8-1 {
+  align-items: flex-start;
+  background-image: url(../img/rectangle-2@2x.png);
+  background-size: 100% 100%;
+  display: flex;
+  height: 52px;
+  left: -4px;
+  min-width: 408px;
+  padding: 12.1px 32px;
+  position: absolute;
+  top: 0;
+}
+
+.desktop-2 .text-30 {
+  letter-spacing: 0;
+  min-height: 23px;
+  text-align: center;
+  text-shadow: 0px 4px 4px #00000066;
+  width: 340px;
+}
+@media screen and (max-width: 1439px) {
+  .screen.desktop-1 { 
+    display: none;
+   }
+}
+@media screen and (min-width: 1440px) {
+  .screen.desktop-2 { 
+    display: none;
+   }
+}
