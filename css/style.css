@@ -1341,7 +1341,7 @@ transform: translate(0,0);
     display: none;
    }
 }
-@media screen and (min-width: 1440px) {
+@media screen and (min-width: 1000px) {
   .screen.desktop-2 { 
     display: none;
    }
